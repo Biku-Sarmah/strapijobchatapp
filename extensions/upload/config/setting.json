@@ -1,0 +1,11 @@
+{
+    "provider": "aws-s3",
+    "providerOptions": {
+      "accessKeyId": "Your-access-key",
+      "secretAccessKey": "your-secret-key",
+      "region": "Asia Pacific (Mumbai)",
+      "params": {
+        "Bucket": "bucket name"
+      }
+    }
+  }
